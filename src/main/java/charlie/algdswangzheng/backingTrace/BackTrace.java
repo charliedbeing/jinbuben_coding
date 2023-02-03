@@ -21,9 +21,9 @@ class Bag{
     }
 
     public static void test_bag(){
-        int[] goods = {5,10,15,20,3,12};
-        int n= 6;
-        int w = 50 ; // 20,15,12
+        int[] goods = {5,10,15,20,3,12,7};
+        int n= 7;
+        int w = 57 ; // 20,15,12
 
         f(0,0,goods, n,w);
 
